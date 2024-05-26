@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, Eu sou a Rafaela Cabral!
+<h3 >📚 Estou cursando o 5º Semestre do Curso Superior do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
 
-<!--
-**RafaelaCabral/RafaelaCabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">My GitHub Analytics</h3>
+<div>
+  <a href = "https://github.com/RafaelaCabral"/>
+  <img width="48%" src = "https://github-readme-stats.vercel.app/api?username=RafaelaCabral&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaCabral&layout=compact&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Connect With Me</h3>
+<div>
+<a href="www.linkedin.com/in/rafaela-vieira-cabral-733b5922a"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
