@@ -23,9 +23,9 @@
 ### Projetos desenvolvidos na faculdade:
  * [1º Semestre](https://github.com/LittleTech10/API--1-ADS.git) → html • css • javascript • python • flask </br>
  * [2º Semestre](https://github.com/LittleTech10/API--2-ADS.git) → java • sql
- * [3º Semestre](https://github.com/LittleTech10/API--3-ADS.git) → ract • typescript • node.js • sql
- * [4º Semestre](https://github.com/QuantumTeam23/API--4-ADS.git) → ract • typescript • node.js • sql
- * [5º Semestre](https://github.com/4DeskGroup/API-2024.1) → ract native • javascript • node.js • mongodb
+ * [3º Semestre](https://github.com/LittleTech10/API--3-ADS.git) → react • typescript • node.js • sql
+ * [4º Semestre](https://github.com/QuantumTeam23/API--4-ADS.git) → react • typescript • node.js • sql
+ * [5º Semestre](https://github.com/4DeskGroup/API-2024.1) → react native • javascript • node.js • mongodb
    
 ##
 
