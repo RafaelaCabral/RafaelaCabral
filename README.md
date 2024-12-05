@@ -8,6 +8,9 @@
   <img width="40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaCabral&layout=compact&theme=tokyonight"/>
 </div>
 
+# 
+### Conhecimentos sobre:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafaela-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafaela-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
