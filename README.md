@@ -26,6 +26,7 @@
  * [3º Semestre](https://github.com/LittleTech10/API--3-ADS.git) → react • typescript • node.js • sql
  * [4º Semestre](https://github.com/QuantumTeam23/API--4-ADS.git) → react • typescript • node.js • sql
  * [5º Semestre](https://github.com/4DeskGroup/API-2024.1) → react native • javascript • node.js • mongodb
+ * [6º Semestre](https://github.com/4DeskGroup/API-2024.2) → vue • python • typescript • langchain • google gemini
    
 ##
 
