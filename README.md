@@ -1,5 +1,5 @@
 ## Olá, Eu sou a Rafaela Cabral!
-<h3 >📚 Estou cursando o 6º Semestre do Curso Superior do Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec-SJC.</h3>
+<h3 >Tecnóloga em Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos.</h3>
 
 <h3 align="center">My GitHub Analytics</h3>
 <div>
